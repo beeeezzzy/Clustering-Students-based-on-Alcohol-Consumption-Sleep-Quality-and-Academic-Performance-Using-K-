@@ -1,0 +1,2 @@
+# Clustering-Students-based-on-Alcohol-Consumption-Sleep-Quality-and-Academic-Performance-Using-K-
+this study  sets to apply machine learning specifically K-means algorithm in  building a model for clustering students based on their sleep quality, alcohol consumption, and academic performance and to  distinguish its relationship to each other. The computational results  and testing of this study may use as a contribution in assessing  students’ academic performance problems
